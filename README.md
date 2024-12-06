@@ -27,9 +27,9 @@ This website is designed to serve as an all-encompassing digital hub for our sch
 - **Registration & Fees**:View admission and registration policy, registration fees and transportation.
 - **News & Events**: Calendar of upcoming events, meetings, and activities.
 - **Contact**: Contact information for school administration and staff.
-Location | Phone | Email      
-------- | ---------------- | ----------:
-Amman  Airport Road  |  009625734902 | info@universalschools.com 
+Location              | Phone            | Email      
+--------------------- | ---------------- | ----------------------:
+Amman Airport Road  |  009625734902 | info@universalschools.com 
 
 - **العربية**:Change to Arabic language. 
 -------------
