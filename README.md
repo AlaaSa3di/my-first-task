@@ -38,6 +38,7 @@ Amman Airport Road  |  009625734902 | info@universalschools.com
 ### Development and Maintenance
 
 The website is maintained by the IT department of [universal schools] and is regularly updated to reflect the latest information and improvements. For any technical issues or feedback, please contact our web development team at [alaa.saadi95@gmail.com].
-
+*to view wireframe & mockup click here [Figma design][2].
 ---
 [1]: https://universalschools.com/
+[2]: https://www.figma.com/design/SFn8qt67WuhWSONUJt9dAu/Website-for-school?node-id=0-1&t=esoLlfuQT0gvn64i-1
